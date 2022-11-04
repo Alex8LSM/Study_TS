@@ -1,0 +1,25 @@
+{
+  "name": "Study_TS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startlive": "lite-server",
+    "start": "npx ts-node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex8LSM/Study_TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex8LSM/Study_TS/issues"
+  },
+  "homepage": "https://github.com/Alex8LSM/Study_TS#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
